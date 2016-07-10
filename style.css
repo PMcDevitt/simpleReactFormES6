@@ -1,0 +1,17 @@
+body {
+  font-family: Verdana, "Trebuchet MS",Arial;
+}
+
+.FormItem {
+  padding: 8px 10px;
+}
+
+.Form > input,
+.Form > textarea {
+  display: block;
+  width: 240px;
+  padding: 4px 8px;
+  margin-bottom: 8px;
+  border: 1px solid #888;
+  font-size: 14px;
+}
